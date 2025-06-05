@@ -8,6 +8,12 @@ I’m a senior software engineer with over a decade of experience building and m
 
 ### 🚀 What I’m Working On
 
+- **UnrealEngine Framework**  
+  I created an [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5) framework I've coined as [DaggerEngine](https://github.com/BenDol/DaggerEngine-UE) as a learning project for UE5.
+  - [Dagger Engine](https://github.com/BenDol/DaggerEngine-UE) - engine code used accross all games
+  - [Dagger](https://github.com/BenDol/Dagger-UE) – core sample game
+  - [Dagger Test Game](https://github.com/BenDol/DaggerTestGame-UE) – Skeleton sample template project utilizing Dagger Engine
+
 - **RisingV-Mods Organization**  
   I founded and maintain [RisingV-Mods](https://github.com/RisingV-Mods), where I build and document a modular modding framework for V Rising.  
   - [RisingV-Mods/.github](https://github.com/RisingV-Mods/.github) – Organization-level landing README & templates  
