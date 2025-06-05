@@ -35,7 +35,7 @@ I’m a senior software engineer with over a decade of experience building and m
 ### 🛠️ Technologies & Interests
 
 - **Languages & Frameworks:**  
-  Java (Spring Boot, Stripes), Python, Lua, C++, JavaScript, SQL, AspectJ, JUnit, Apache MINA  
+  Java (Spring Framework), Kotlin, Android, Python, Lua, C++, JavaScript, SQL, AspectJ, JUnit
 - **Game & Modding:**  
   Unity, Unreal Engine 5, V Rising modding (BepInEx, Harmony, IL2CPP), OpenTibia, World of Warcraft  
 - **DevOps & Infrastructure:**  
