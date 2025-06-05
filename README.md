@@ -54,6 +54,9 @@ I’m a senior software engineer with over a decade of experience building and m
 - **OpenTibia Community**  
   Contributed to various OpenTibia server/client projects, including OTClient and TheForgottenServer.
 
+- **GWT Material Design**
+  Contributed a lot to the early life of [GWT Material Design](https://github.com/GWTMaterialDesign) and still have a part in helping.
+
 - **GitHub Arctic Code Vault Contributor** & **Developer Program Member**  
   Proud to be part of GitHub’s ecosystem and contribute to open source year after year.
 
