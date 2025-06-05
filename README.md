@@ -12,6 +12,7 @@ I’m a senior software engineer with over a decade of experience building and m
   I founded and maintain [RisingV-Mods](https://github.com/RisingV-Mods), where I build and document a modular modding framework for V Rising.  
   - [RisingV-Mods/.github](https://github.com/RisingV-Mods/.github) – Organization-level landing README & templates  
   - [RisingV-Mods/RisingV.Docs](https://github.com/RisingV-Mods/RisingV.Docs) – Full documentation site for the RisingV framework
+  - TODO: Once public add the framework repos
 
 - **PyBot**  
   A Python scripting engine that provides a component-based task framework with:  
