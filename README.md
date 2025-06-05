@@ -52,7 +52,7 @@ I’m a senior software engineer with over a decade of experience building and m
   Building a robust modding framework and docs for V Rising—focus on server-side plugins for BepInEx.
 
 - **OpenTibia Community**  
-  Contributed to various OpenTibia server/client projects, including OTClient and TheForgottenServer.
+  Contributed to various OpenTibia server/client projects, including [OTClient](https://github.com/edubart/otclient) and [ForgottenServer](https://github.com/otland/forgottenserver).
 
 - **GWT Material Design**  
   Contributed a lot to the early life of [GWT Material Design](https://github.com/GWTMaterialDesign) and still have a part in helping.
