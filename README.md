@@ -78,6 +78,6 @@ and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&paus
 
 ---
 
-> “Contribute where you can and find what you love.”  
+> “Contribute where you can and you'll find what you love.”  
 > — *Ben Dol*
 
