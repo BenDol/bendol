@@ -74,7 +74,7 @@ and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&paus
 ### 📫 How to Reach Me
 
 - **Email:** Available in my GitHub profile (please check my “Contact” tab)  
-- **Substack:** [bendol.substack.com](https://bendol.substack.com) — I publish weekly reflections on politics and technology.  
+- **Substack:** [bendol.substack.com](https://bendol.substack.com) — I publish "weekly" reflections on politics and technology.  
 
 ---
 
