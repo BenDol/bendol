@@ -2,7 +2,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenDol&show_icons=true&theme=dark)
 
-I’m a senior software engineer with over a decade of experience building and maintaining open-source tools—mostly in the gaming and modding space. I enjoy blending technical rigor with creative problem-solving, whether that means architecting a custom game server in Java or scripting autonomous bots in Python and Lua. When I’m not coding, you can find me writing about U.S. politics and policy on [my Substack](https://bendol.substack.com)
+I’m a senior software engineer with over a decade of experience building and maintaining open-source tools—mostly in the gaming and modding space. I enjoy blending technical rigor with creative problem-solving, whether that means architecting a custom game server in Java or scripting autonomous bots in Python and Lua. When I’m not coding, you can find me writing about U.S. politics and policy on [my Substack](bendol.me)
 
 and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&pause=250&color=79FF97&width=150&height=9&size=11&vCenter=true&lines=GAMING;MORE+WORKING!).
 
@@ -74,7 +74,7 @@ and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&paus
 ### 📫 How to Reach Me
 
 - **Email:** Available in my GitHub profile (please check my “Contact” tab)  
-- **Substack:** [bendol.substack.com](https://bendol.substack.com) — I publish "weekly" reflections on politics and technology.  
+- **Substack:** [bendol.me](https://www.bendol.me/) — I publish "weekly" reflections on politics and technology.  
 
 ---
 
