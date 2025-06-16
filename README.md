@@ -2,13 +2,13 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenDol&show_icons=true&theme=dark)
 
-I’m a senior software engineer with over a decade of experience building and maintaining open-source tools—mostly in the gaming and modding space. I enjoy blending technical rigor with creative problem-solving, whether that means architecting a custom game server in Java or scripting autonomous bots in Python and Lua. When I’m not coding, you can find me writing about U.S. politics and policy on [my Substack](bendol.me)
+I’m a senior software engineer with over a decade of experience building and maintaining open-source tools, mostly in the gaming and modding space. I enjoy blending technical rigor with creative problem-solving, whether that means architecting a custom game server in Java or scripting bots in Python and Lua. When I’m not coding, you can find me writing about U.S. politics and policy on [my Substack](bendol.me)
 
 and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&pause=250&color=79FF97&width=150&height=9&size=11&vCenter=true&lines=GAMING;MORE+WORKING!).
 
 ---
 
-### 🚀 What I’m Working On
+### What I’m Working On
 
 - **UnrealEngine Framework**  
   I created an [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5) framework I've coined as [DaggerEngine](https://github.com/BenDol/DaggerEngine-UE) as a learning project for UE5.
@@ -40,7 +40,7 @@ and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&paus
 
 ---
 
-### 🛠️ Technologies & Interests
+### Technologies & Interests
 
 - **Languages & Frameworks:**  
   Java (Spring Framework), Kotlin, Android, Python, Lua, C++, JavaScript, SQL, AspectJ, JUnit
@@ -55,7 +55,7 @@ and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&paus
 
 ---
 
-### 🌐 Organizations & Communities
+### Organizations & Communities
 
 - **RisingV-Mods** (Founder & Lead)  
   Building a robust modding framework and docs for V Rising—focus on server-side plugins for BepInEx.
@@ -71,7 +71,7 @@ and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&paus
 
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 
 - **Email:** Available in my GitHub profile (please check my “Contact” tab)  
 - **Substack:** [bendol.me](https://www.bendol.me/) — I publish "weekly" reflections on politics and technology.  
