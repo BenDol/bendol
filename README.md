@@ -16,7 +16,7 @@ and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&paus
   - [Dagger](https://github.com/BenDol/Dagger-UE) - Core sample game project utilizing Dagger Engine
   - [Dagger Test Game](https://github.com/BenDol/DaggerTestGame-UE) - Skeleton sample template project utilizing Dagger Engine
 
-- **RisingV-Mods Organization**  
+- **RisingV-Mods**  
   I founded and maintain [RisingV-Mods](https://github.com/RisingV-Mods), where I build and document a modular modding framework for V Rising.  
   - [RisingV-Mods/.github](https://github.com/RisingV-Mods/.github) - Organization-level landing README & templates  
   - [RisingV-Mods/RisingV.Docs](https://github.com/RisingV-Mods/RisingV.Docs) - Full documentation site for the RisingV framework
