@@ -28,15 +28,15 @@ and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&paus
   - Flexible component system  
   - Configurable input controls  
   - Easy script configuration  
-  [View on GitHub »](https://github.com/BenDol/pybot)
+  [View on GitHub](https://github.com/BenDol/pybot)
 
 - **ElvUI (Wrath of the Lich King)**  
   My fork of [ElvUI-WotLK/ElvUI](https://github.com/ElvUI-WotLK/ElvUI), updated to target WoW 3.3.5a. Perfect for anyone who still raids WotLK-era servers.  
-  [View on GitHub »](https://github.com/BenDol/ElvUI)
+  [View on GitHub](https://github.com/BenDol/ElvUI)
 
 - **GitLab Pipelines Examples**  
   A set of sample CI/CD pipeline configurations for GitLab projects (Python, Node.js, Docker, etc.).  
-  [View on GitHub »](https://github.com/BenDol/gitlab-pipelines)
+  [View on GitHub](https://github.com/BenDol/gitlab-pipelines)
 
 ---
 
