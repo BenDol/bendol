@@ -4,7 +4,7 @@
 
 I’m a senior software engineer with over a decade of experience building and maintaining open-source tools, mostly in the gaming and modding space. I enjoy blending technical rigor with creative problem-solving, whether that means architecting a custom game server in Java or scripting bots in Python and Lua. When I’m not coding, you can find me writing about U.S. politics and policy on [my Substack](bendol.me)
 
-and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&pause=250&color=79FF97&width=150&height=9&size=11&vCenter=true&lines=GAMING;MORE+WORKING!).
+and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&pause=250&color=79FF97&width=150&height=9&size=11&vCenter=true&lines=GAMING;MORE+WORKING!)
 
 ---
 
