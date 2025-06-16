@@ -51,14 +51,14 @@ and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&paus
 - **Documentation & Community:**  
   DocFX, Markdown, GitHub Pages, maintaining centralized docs for RisingV, open-source collaboration  
 - **Writing & Analysis:**  
-  U.S. political history, economic policy, bipartisan reflections—see my [Substack](https://bendol.substack.com).
+  U.S. political history, economic policy, bipartisan reflections, see my [Substack](https://bendol.substack.com).
 
 ---
 
 ### Organizations & Communities
 
 - **RisingV-Mods** (Founder & Lead)  
-  Building a robust modding framework and docs for V Rising—focus on server-side plugins for BepInEx.
+  Building a robust modding framework and docs for V Rising, focus on server-side plugins for BepInEx.
 
 - **OpenTibia Community**  
   Contributed to various OpenTibia server/client projects, including [OTClient](https://github.com/edubart/otclient) and [ForgottenServer](https://github.com/otland/forgottenserver).
@@ -74,7 +74,7 @@ and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&paus
 ### How to Reach Me
 
 - **Email:** Available in my GitHub profile (please check my “Contact” tab)  
-- **Substack:** [bendol.me](https://www.bendol.me/) — I publish "weekly" reflections on politics and technology.  
+- **Substack:** [bendol.me](https://www.bendol.me/) I publish "weekly" reflections on politics and technology.  
 
 ---
 
