@@ -7,6 +7,11 @@ and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&paus
 
 ### What I’m Working On
 
+- **GithubWiki Framework**
+  I created a wiki framework that uses Github as a foundation that can be hosted on a serverless service like Netlify. It's designed to be simplistic, robust and feature rich.
+  - [Github Wiki](https://github.com/BenDol/GithubWiki)
+  - [SlayerLegendWiki](https://github.com/BenDol/SlayerLegendWiki) - Example project using the GithubWiki framework
+
 - **UnrealEngine Framework**  
   I created an [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5) framework I've coined as [DaggerEngine](https://github.com/BenDol/DaggerEngine-UE) as a learning project for UE5.
   - [Dagger Engine](https://github.com/BenDol/DaggerEngine-UE) - Engine code used accross all games
