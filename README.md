@@ -39,6 +39,7 @@ and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&paus
 - **GitLab Pipelines Examples**  
   A set of sample CI/CD pipeline configurations for GitLab projects (Python, Node.js, Docker, etc.).  
   [View on GitHub](https://github.com/BenDol/gitlab-pipelines)
+  - [Intellij Gitlab Plugin](https://github.com/BenDol/intellij-gitlab-plugin) - Intellij Plugin for managing Gitlab Pipelines
 
 ---
 
