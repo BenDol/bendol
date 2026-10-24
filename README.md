@@ -1,85 +1,70 @@
-## Hi there, I’m Ben Dol 👋
+## Hi there, I'm Ben Dol 👋
 
-I’m a senior software engineer with over a decade of experience building and maintaining open-source tools, mostly in the gaming and modding space. I enjoy blending technical rigor with creative problem-solving, whether that means architecting a custom game server, building mod systems for my favorite games or scripting bots in Python and Lua. When I’m not coding, you can find me writing about U.S. politics and policy on my [Substack](https://www.bendol.me)
+I'm a senior software engineer with over a decade of experience building and maintaining open-source tools, mostly in the gaming and modding space. I enjoy blending technical rigor with creative problem-solving, whether that means architecting a custom game server, building mod systems for my favorite games or scripting bots in Python and Lua. When I'm not coding, you can find me writing about U.S. politics and policy on my [Substack](https://www.bendol.me),
 and of course ![](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&pause=250&color=79FF97&width=150&height=9&size=11&vCenter=true&lines=GAMING;MORE+WORKING!)
 
 ---
 
-### What I’m Working On
+### What I'm up to these days
 
-- **GithubWiki Framework**
-  I created a wiki framework that uses Github as a foundation that can be hosted on a serverless service like Netlify. It's designed to be simplistic, robust and feature rich.
-  - [Github Wiki](https://github.com/BenDol/GithubWiki)
-  - [SlayerLegendWiki](https://github.com/BenDol/SlayerLegendWiki) - Example project using the GithubWiki framework
+**[Wrenspace](https://wrenspace.ai)** · TypeScript, Electron, React<br>
+This is my main project right now. It's a desktop app for running a bunch of AI coding agents side by side (Claude Code, Codex, Cursor Agent, OpenCode and others) so you don't end up buried in terminal tabs. Your sessions come back after a restart, agents can pass work to each other, and there's a plugin system for all the extra stuff I kept wanting. [Grab a build](https://github.com/Wrenspace/Wrenspace-Release/releases/latest) if you want to try it.
 
-- **UnrealEngine Framework**  
-  I created an [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5) framework I've coined as [DaggerEngine](https://github.com/BenDol/DaggerEngine-UE) as a learning project for UE5.
-  - [Dagger Engine](https://github.com/BenDol/DaggerEngine-UE) - Engine code used accross all games
-  - [Dagger](https://github.com/BenDol/Dagger-UE) - Core sample game project utilizing Dagger Engine
-  - [Dagger Test Game](https://github.com/BenDol/DaggerTestGame-UE) - Skeleton sample template project utilizing Dagger Engine
+**[Fantasy Mounts](https://fantasymounts.com)** · Java, Minecraft<br>
+A Minecraft mod full of fantasy creatures you can find, tame, breed and ride. It runs on Forge, NeoForge, Fabric and Quilt, which means four times the players and four times the bugs. If you hit one, [report it here](https://github.com/BenDol/Fantasy-Mounts-Report).
 
-- **RisingV**  
-  I founded and maintain [RisingV-Mods](https://github.com/RisingV-Mods), where I build and document a modular modding framework for V Rising.  
-  - [RisingV-Mods/.github](https://github.com/RisingV-Mods/.github) - Organization-level landing README & templates  
-  - [RisingV-Mods/RisingV.Docs](https://github.com/RisingV-Mods/RisingV.Docs) - Full documentation site for the RisingV framework
-  - TODO: Once public add the framework repos
+**An idle game I can't show yet** · C#, Godot<br>
+A multiplayer idle game with its own backend. More on this once there's something worth looking at.
 
-- **PyBot**  
-  A Python scripting engine that provides a component-based task framework with:  
-  - Task dispatcher  
-  - Flexible component system  
-  - Configurable input controls  
-  - Easy script configuration  
-  [View on GitHub](https://github.com/BenDol/pybot)
+**Smaller projects**
+- [Modern Chat](https://github.com/BenDol/Modern-Chat): a RuneLite plugin that gives Old School RuneScape a chat box that feels like it's from this century.[^1]
+- [HyDowned](https://github.com/BenDol/HyDowned): a Hytale mod where you go down instead of dying, so your friends get a chance to revive you.
+- [SlayerLegendWiki](https://github.com/BenDol/SlayerLegendWiki): a community wiki for Slayer Legend. It runs on my own wiki framework, which uses GitHub as the backend and runs on serverless hosting.
+- [Parking Zones](https://github.com/BenDol/Parking-Zones): crowdsourced parking data for an app I'm building. People submit it as issues, and GitHub Actions checks each one and turns it into a PR.
+- [Claude Voice Input](https://github.com/BenDol/Claude-Voice-Input): a Claude Code plugin that lets you talk to it with a hotkey instead of typing.
 
-- **ElvUI (Wrath of the Lich King)**  
-  My fork of [ElvUI-WotLK/ElvUI](https://github.com/ElvUI-WotLK/ElvUI), updated to target WoW 3.3.5a. Perfect for anyone who still raids WotLK-era servers.  
-  [View on GitHub](https://github.com/BenDol/ElvUI)
+<details>
+<summary><b>Older projects I've moved on from</b> (still up if you're curious)</summary>
+<br>
 
-- **GitLab Pipelines Examples**  
-  A set of sample CI/CD pipeline configurations for GitLab projects (Python, Node.js, Docker, etc.).  
-  [View on GitHub](https://github.com/BenDol/gitlab-pipelines)
-  - [Intellij Gitlab Plugin](https://github.com/BenDol/intellij-gitlab-plugin) - Intellij Plugin for managing Gitlab Pipelines
+- **DaggerEngine:** the Unreal Engine 5 framework I built to learn UE5. See [DaggerEngine](https://github.com/BenDol/DaggerEngine-UE), the [Dagger](https://github.com/BenDol/Dagger-UE) sample game and a [skeleton template](https://github.com/BenDol/DaggerTestGame-UE).
+- **RisingV:** a modular modding framework for V Rising, built around server-side BepInEx plugins. See the [org](https://github.com/RisingV-Mods) and the [docs](https://github.com/RisingV-Mods/RisingV.Docs).
+- **[PyBot](https://github.com/BenDol/pybot):** a Python scripting engine with a task dispatcher, swappable components and configurable input.
+- **[ElvUI for WotLK](https://github.com/BenDol/ElvUI):** my ElvUI fork targeting 3.3.5a, for anyone still raiding on Wrath servers.
+- **[GitLab pipeline examples](https://github.com/BenDol/gitlab-pipelines):** CI/CD setups for Python, Node and Docker, plus an [IntelliJ plugin](https://github.com/BenDol/intellij-gitlab-plugin) for managing pipelines without leaving the IDE.
+
+</details>
 
 ---
 
-### Technologies & Interests
+### What I work with
 
-- **Languages & Frameworks:**  
-  Java (Spring Framework), Kotlin, Android, Python, Lua, C++, JavaScript, SQL, AspectJ, JUnit
-- **Game & Modding:**  
-  Unity, Unreal Engine 5, V Rising modding (BepInEx, Harmony, IL2CPP), OpenTibia, World of Warcraft  
-- **DevOps & Infrastructure:**  
-  GitHub Actions, Docker, Kubernetes, AWS, GCP, CI/CD pipelines, Git submodules, automated build scripts  
-- **Documentation & Community:**  
-  DocFX, Markdown, GitHub Pages, maintaining centralized docs for RisingV, open-source collaboration  
-- **Writing & Analysis:**  
-  U.S. political history, economic policy, bipartisan reflections, see my [Substack](https://bendol.substack.com).
+[![Tech I use](https://skillicons.dev/icons?i=ts,java,cs,py,rust,cpp,kotlin,lua,react,electron,nodejs,godot,unreal,unity,docker,kubernetes,aws,gcp,githubactions,gradle)](https://skillicons.dev)
+
+- **Most days:** TypeScript, Java, C# and Python, plus more Rust every month.
+- **Games:** Minecraft modding (Forge, NeoForge, Fabric), Godot, Unreal Engine 5, Unity, RuneLite plugins, and BepInEx/Harmony when a Unity game needs prying open.
+- **Infra:** GitHub Actions does most of my chores. I bring in Docker, Kubernetes, AWS or GCP when a project needs real servers.
+- **Lately:** a lot of time building with AI coding agents, and building tools for them, and figuring out where they actually earn their keep.
+- **Where I started:** Java, Spring and GWT on the job, and years of C++ and Lua in the OpenTibia scene on nights and weekends.
 
 ---
 
-### Organizations & Communities
+### Communities I've been part of
 
-- **RisingV** (Founder & Lead)  
-  Building a robust modding framework and docs for V Rising, focus on server-side plugins for BepInEx.
-
-- **OpenTibia Community**  
-  Contributed to various OpenTibia server/client projects, including [OTClient](https://github.com/edubart/otclient) and [ForgottenServer](https://github.com/otland/forgottenserver).
-
-- **GWT Material Design**  
-  Contributed a lot to the early life of [GWT Material Design](https://github.com/GWTMaterialDesign) and still have a part in helping.
-
-- **GitHub Arctic Code Vault Contributor** & **Developer Program Member**  
-  Proud to be part of GitHub’s ecosystem and contribute to open source year after year.
+- **[Wrenspace](https://wrenspace.ai)** (founder): building the app and the community around it.
+- **[RisingV](https://github.com/RisingV-Mods)** (founder): the V Rising modding framework and docs.
+- **OpenTibia:** I contributed to [OTClient](https://github.com/edubart/otclient), [The Forgotten Server](https://github.com/otland/forgottenserver) and other projects. A lot of what I know about game servers came from here.
+- **[GWT Material Design](https://github.com/GWTMaterialDesign):** I put a lot of work into its early days and still help out now and then.
+- **GitHub Arctic Code Vault contributor:** some of my code is sitting in a vault in Svalbard, which I still think is pretty cool.
 
 ---
 
-### How to Reach Me
+### Say hi
 
-- **Email:** Available in my GitHub profile (please check my “Contact” tab)  
-- **Substack:** [bendol.me](https://www.bendol.me/) I publish "weekly" reflections on politics and technology.  
+- **Email:** it's on my GitHub profile.
+- **Writing:** [bendol.me](https://www.bendol.me), where I post about politics and policy "weekly". The quote marks are doing a lot of work there.
+- **Issues and PRs:** open one on anything here. I do read them.
 
----
+> "Contribute where you can and you'll find what you love."
 
-> “Contribute where you can and you'll find what you love.”
-
+[^1]: It had a paste feature too, until [Jagex decided that crossed a line](https://github.com/runelite/plugin-hub/pull/8828#issuecomment-3200730451).
