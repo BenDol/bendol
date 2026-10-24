@@ -66,5 +66,3 @@ A multiplayer idle game with its own backend. More on this once there's somethin
 - **Issues and PRs:** open one on anything here. I do read them.
 
 > "Contribute where you can and you'll find what you love."
-
-[^1]: It had a paste feature too, until [Jagex decided that crossed a line](https://github.com/runelite/plugin-hub/pull/8828#issuecomment-3200730451).
